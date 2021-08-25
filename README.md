@@ -1,6 +1,6 @@
 # React COVID Tracker
 
-### <a href="https://trackcovid-react.herokuapp.com/">Live Link</a>
+### <a href="https://trackcovid-react.herokuapp.com/" target="_blank">Live Link</a>
 
 ## Available Scripts
 
