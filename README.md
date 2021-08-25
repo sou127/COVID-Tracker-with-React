@@ -1,5 +1,7 @@
 # React COVID Tracker
 
+### <a href="https://trackcovid-react.herokuapp.com/">Live Link</a>
+
 ## Available Scripts
 
 In the project directory, you can run:
